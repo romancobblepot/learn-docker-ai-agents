@@ -23,3 +23,13 @@ Anyone building agentic or LLM-based apps who wants a quick, practical tour of D
 ## Requirements
 
 Docker Desktop with Sandboxes, Model Runner, MCP Toolkit, and cagent enabled.
+
+## Browsing it locally
+
+Run the included preview server (no dependencies beyond Python 3):
+
+```bash
+python3 preview.py
+```
+
+Then open `http://127.0.0.1:8000`. It lists this repo's folders and files, and renders any `.md` file as formatted markdown in the browser.
