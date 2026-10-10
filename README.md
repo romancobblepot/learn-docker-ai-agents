@@ -26,9 +26,11 @@ Docker Desktop with Sandboxes, Model Runner, MCP Toolkit, and cagent enabled.
 
 ## Browsing it locally
 
-Run the included preview server (no dependencies beyond Python 3):
+Clone the repo and run the included preview server (no dependencies beyond Python 3):
 
 ```bash
+git clone git@github.com:romancobblepot/learn-docker-ai-agents.git
+cd learn-docker-ai-agents
 python3 preview.py
 ```
 
