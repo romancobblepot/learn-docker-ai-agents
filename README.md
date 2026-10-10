@@ -1,6 +1,6 @@
 # Docker for AI Agents
 
-I wanted to get hands-on with Docker's AI-agent-specific tooling, so I put together this short course and worked through it myself — four lessons, each with real commands I ran and verified on my own machine (nothing fabricated).
+After learning the core docker fundamentals, I was interested in getting my hands dirty with Docker's AI-agent-specific tooling, so I put together this short course and worked through it myself — four lessons, each with real commands I ran and verified on my own machine (nothing fabricated).
 
 > **Prerequisite:** this course assumes you already know Docker fundamentals (containers, images, networking). If you don't, start with [learn-docker](https://github.com/romancobblepot/learn-docker) first.
 
@@ -25,6 +25,8 @@ Anyone building agentic or LLM-based apps who wants a quick, practical tour of D
 ## Requirements
 
 Docker Desktop with Sandboxes, Model Runner, MCP Toolkit, and cagent enabled.
+
+If you'd want to study these lessons in an interactive easy-to-read manner, then i would suggest you to follow the below section:
 
 ## Browsing it locally
 
