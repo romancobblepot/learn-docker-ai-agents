@@ -2,7 +2,7 @@
 
 After getting comfortable with core docker fundamentals, it really made sense me getting excited about learning Docker's AI-agent-specific tooling, so I put together this short course and worked through it myself — four lessons, each with real commands I ran and verified on my own machine (nothing fabricated).
 
-> **Prerequisite:** this course assumes you already know Docker fundamentals (containers, images, networking). If you don't, start with [learn-docker](https://github.com/romancobblepot/learn-docker) first.
+> **Prerequisite:** this course assumes you already know Docker fundamentals (containers, images, networking). If you don't, start with this short [learn-docker](https://github.com/romancobblepot/learn-docker) course first.
 
 ## What's inside
 
