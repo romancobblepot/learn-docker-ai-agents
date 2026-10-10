@@ -1,6 +1,8 @@
 # Docker for AI Agents
 
-A short, hands-on course on Docker's tooling for building AI agents — four lessons, each with real commands run and verified on an actual machine (nothing fabricated).
+I wanted to get hands-on with Docker's AI-agent-specific tooling, so I put together this short course and worked through it myself — four lessons, each with real commands I ran and verified on my own machine (nothing fabricated).
+
+> **Prerequisite:** this course assumes you already know Docker fundamentals (containers, images, networking). If you don't, start with [learn-docker](https://github.com/romancobblepot/learn-docker) first.
 
 ## What's inside
 
